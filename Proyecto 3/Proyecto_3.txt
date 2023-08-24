@@ -1,0 +1,12 @@
+Proyecto 3
+Se busca visualizar indicadores de Colaboradores, Sueldos y Desempeño a manera de un Reporte de Recursos Humanos de la compañía SKU-DON. Este reporte requiere ser compartido a usuarios por medio de un enlace web.
+
+Se requiere poder analizar lo siguiente:
+
+	- Análisis pro empleado (Tabla).
+	- Total de empleado (Conteo).
+	- Promedios de edad, sueldo y desempeño.
+	- Costos totales por sueldos, relación sueldos-edad.
+	- Evaluación de desempeño: Max, min y por jefe.
+
+Se proporcionan los recursos para desarrollo completo de proyecto.

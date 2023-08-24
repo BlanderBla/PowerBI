@@ -1,0 +1,12 @@
+Proyecto 1
+Desarrollar un reporte interactivo que nos permita analizar las ventas de millones de copias de videojuegos a nivel global.
+
+Se requiere poder analizar po las categorías de:
+
+	- Año
+	- Región
+	- Plataforma
+	- Género
+	- Editorial
+
+Se proporciona un archivo Excel "Venta Videojuegos.xlsx" para desarrollo completo del reporte.
